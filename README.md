@@ -232,7 +232,7 @@ Maven installed
 
 
 
-
+userbooking confirmation code:
 ![Screenshot 2023-12-19 122529](https://github.com/Elvis16q/KivuSide-hotel-backend/assets/137180945/0bf1de6a-5c0a-497b-ae88-4f494f6e994c)
 ![Screenshot 2023-12-19 122529](https://github.com/Elvis16q/KivuSide-hotel-backend/assets/137180945/a98b388d-045b-4325-8aac-d598c6c415a6)
 ![Screenshot 2023-12-19 122404](https://github.com/Elvis16q/KivuSide-hotel-backend/assets/137180945/3665e1cd-8932-4a85-92d0-b9497e403254)
