@@ -202,6 +202,10 @@ Front-End: Vite@react,Bootstrap,.
 Server-side: Spring Boot.
 Back-end: MYSQL, Hibernate.
 Server: Tomcat 8.5.
+Prerequisites
+Java 17 installed
+MySQL 8 installed
+Maven installed
 
 
 
